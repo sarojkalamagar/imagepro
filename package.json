@@ -1,0 +1,25 @@
+{
+  "name": "imagepro",
+  "version": "1.0.0",
+  "description": "Image Pro is a client-side image processing library based on canvas API.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarojkalamagar/imagepro.git"
+  },
+  "keywords": [
+    "image",
+    "processor",
+    "javascript",
+    "client",
+    "side"
+  ],
+  "author": "Saroj Kala Magar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarojkalamagar/imagepro/issues"
+  },
+  "homepage": "https://github.com/sarojkalamagar/imagepro#readme",
+  "dependencies": {}
+}
