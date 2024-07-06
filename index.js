@@ -1,4 +1,4 @@
-const initiate2dCanvas = (elemId, context) => {
+const initiate2dCanvas = (elemId) => {
     return document.getElementById(elemId)
 }
 
