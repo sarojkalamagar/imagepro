@@ -1,6 +1,6 @@
 {
   "name": "imageshift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image Shift is a client-side image processing library based on canvas API.",
   "main": "index.js",
   "scripts": {},
