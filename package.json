@@ -1,12 +1,12 @@
 {
-  "name": "imagepro",
+  "name": "imageshift",
   "version": "1.0.0",
-  "description": "Image Pro is a client-side image processing library based on canvas API.",
+  "description": "Image Shift is a client-side image processing library based on canvas API.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarojkalamagar/imagepro.git"
+    "url": "git+https://github.com/sarojkalamagar/imageshift.git"
   },
   "keywords": [
     "image",
@@ -18,8 +18,8 @@
   "author": "Saroj Kala Magar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sarojkalamagar/imagepro/issues"
+    "url": "https://github.com/sarojkalamagar/imageshift/issues"
   },
-  "homepage": "https://github.com/sarojkalamagar/imagepro#readme",
+  "homepage": "https://github.com/sarojkalamagar/imageshift#readme",
   "dependencies": {}
 }
