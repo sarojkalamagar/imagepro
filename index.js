@@ -1,3 +1,5 @@
+import ImageEditor from "./Components/ImageEditor"
+
 const initiate2dCanvas = (elemId) => {
     return document.getElementById(elemId)
 }
@@ -66,4 +68,4 @@ const rotate = (canvas, image) => {
     fitImageToCanvas(image, canvas)
 }
 
-export { initiate2dCanvas, initiateImageByUrl, loadImageToCanvas, rotate }
+export { initiate2dCanvas, initiateImageByUrl, loadImageToCanvas, rotate, ImageEditor }

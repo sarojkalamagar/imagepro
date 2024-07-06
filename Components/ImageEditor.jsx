@@ -1,7 +1,7 @@
 import { useEffect } from "react"
 import { initiate2dCanvas, initiateImageByUrl, loadImageToCanvas } from ".."
 
-export default Image = ({
+export default ImageEditor = ({
     id,
     url,
     width,
